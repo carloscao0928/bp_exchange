@@ -1,1 +1,3 @@
-# bp_exchange
+# backpack_exchange
+npm install
+node ./index.js
